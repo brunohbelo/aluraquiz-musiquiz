@@ -1,0 +1,30 @@
+{
+    "bg": "https://images.pexels.com/photos/934059/pexels-photo-934059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "title": "Quiz Musical",
+    "description": "Um quiz musical super empolgante",
+    "questions": [
+        {
+            "image": "https://placehold.it/400x400",
+            "title": "A escala natual maior é composta por quantos semi-tons?",
+            "answer": 1,
+            "alternatives": [
+                "7",
+                "8",
+                "9",
+                "2",
+                "12"
+            ]
+        }
+    ],
+    "theme": {
+        "colors": {
+            "primary": "#4CAF50",
+            "secondary": "#FF9800",
+            "mainBg": "#1C1814",
+            "contrastText": "#FFFFFF",
+            "wrong": "#FF5722",
+            "success": "#4CAF50"
+        },
+        "borderRadius": "4px"
+    }
+}
